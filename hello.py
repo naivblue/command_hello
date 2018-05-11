@@ -1,5 +1,6 @@
 ## For command line git tutorial
-## local repository modification 
+## First: Github modification
+## Second : Local modification
 
 print ("Hello World")
 print ("Tell your world")
